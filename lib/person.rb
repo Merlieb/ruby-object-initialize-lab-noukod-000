@@ -5,4 +5,4 @@ def intialize(name)
 end
 
 end
- Beyonce = Person.new(Beyonce)
+ Beyonce = Person.new
