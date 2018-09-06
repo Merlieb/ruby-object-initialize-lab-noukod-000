@@ -4,8 +4,8 @@ def initialize=(name)
 end
 
 def initialize
-  
+
 end
 
 end
-@name = Person.new("Beyonce")
+#@name = Person.new("Beyonce")
